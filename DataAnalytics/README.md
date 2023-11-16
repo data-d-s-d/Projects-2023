@@ -6,10 +6,11 @@
 1. [Introducción](#introduccion)
 2. [Descripción del Proyecto](#descripción-del-proyecto)
 3. [Contenido del Repositorio](#contenido-del-repositorio)
-4. [Fuente de Datos](#fuente-de-datos)
-5. [Conclusiones](#conclusiones)
-6. [Contacto](#contacto)
-7. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Dashboard](#dashboard)
+5. [Fuente de Datos](#fuente-de-datos)
+6. [Conclusiones](#conclusiones)
+7. [Contacto](#contacto)
+8. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
 ## Introducción
 Este repositorio contiene un proyecto de análisis de datos que tiene como objetivo evaluar una serie de datasets originarios de https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/ acerca de las telecomunicaciones en Argentina.
