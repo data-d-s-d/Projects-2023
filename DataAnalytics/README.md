@@ -53,13 +53,13 @@ Una de las conclusiones interesantes que pude extraer de los datos es que las te
 ## Dashboard
 El dashboard del proyecto consiste en un informe interactivo en Power BI que muestra visualizaciones de los KPIs y otros datos relevantes para el análisis. Lamentablemente no se puede compartir acá directamente, por lo que las siguientes imágenes no van a ser interactivas, pero a continuación dejo algunas imágenes de cómo se veían tanto el dashboard principal como los KPIs:
 
-- Dashboard principal
+# - Dashboard principal
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/42e0286b-71e1-44dd-8b81-7b6f33e893df)
 
-- Dashboard KPI 1:
+# - Dashboard KPI 1:
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/71e6a4ac-e62e-4948-90fd-e031e5063c0f)
 
-- Dashboard KPI 2:
+# - Dashboard KPI 2:
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/35408930-3154-4239-af2f-fe56b061e187)
 
 
