@@ -56,10 +56,10 @@ El dashboard del proyecto consiste en un informe interactivo en Power BI que mue
 - Dashboard principal
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/42e0286b-71e1-44dd-8b81-7b6f33e893df)
 
--Dashboard KPI 1:
+- Dashboard KPI 1:
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/71e6a4ac-e62e-4948-90fd-e031e5063c0f)
 
--Dashboard KPI 2:
+- Dashboard KPI 2:
 ![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/35408930-3154-4239-af2f-fe56b061e187)
 
 
