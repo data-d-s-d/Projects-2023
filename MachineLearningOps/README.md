@@ -13,7 +13,7 @@
    - [Presentación en Video](#presentacion-en-video)
 3. [Video de Presentación](#video-de-presentacion)
 4. [Conclusión](#conclusion)
-5. [Tecnologías utilizadas] (#tecnologias-utilizadas)
+5. [Tecnologías utilizadas](#tecnologias-utilizadas)
 # README del Proyecto MVP - Análisis y Recomendación de Juegos <a name="descripcion-del-proyecto"></a>
 
 ## Descripción del Proyecto
