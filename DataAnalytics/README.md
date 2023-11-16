@@ -49,6 +49,11 @@ Para calcular el KPI, se utiliza la fórmula mencionada previamente. El KPI se c
 
 Una de las conclusiones interesantes que pude extraer de los datos es que las tecnologías que más crecimiento han sufrido en los últimos años son el cablemodem y la fibra óptica. Sin enbargo, la fibra óptica tiene muchísimo más potencial para crecer en los próximos años, especialmente en áreas donde su acceso no resulta tan complicado, por lo que es una oportunidad de inversión que no debe ser pasada por alto. Es importante recalcar que la fibra óptica no sólo va a llenar los espacios donde no haya conexiones preexistentes a internet, sino que tiene el potencial, y de hecho también lo está haciendo, de reemplazar a las tecnologías anteriores que presentan rendimientos muy inferiores.
 
+## Dashboard
+El dashboard del proyecto consiste en un informe interactivo en Power BI que muestra visualizaciones de los KPIs y otros datos relevantes para el análisis. Lamentablemente no se puede compartir acá directamente, pero a continuación voy a mostrar algunas fotos de cómo se veía.
+
+![image](https://github.com/data-d-s-d/Projects-2023/assets/109982575/42e0286b-71e1-44dd-8b81-7b6f33e893df)
+
 
 ## Fuente de Datos
 Los datos se han obtenido a través de conjuntos de datos principales y complementarios. Se ha utilizado una API para traer los datos necesarios. La combinación de estos conjuntos de datos ha permitido realizar un análisis más completo.
